@@ -1,0 +1,256 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/metal/Desktop/Project_P1
+T_opt
+!s110 1719420343
+V?a0m]<oS]YFC:UMP_@1:N2
+04 13 4 work tb_Calculator fast 0
+=1-7c4d8faa629d-667c45b6-382-1ec0
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+T_opt1
+!s110 1719415670
+V3dT33mF[HZQ^m>2>Fl11J0
+04 20 4 work tb_STACK_BASED_ALU_4 fast 0
+=1-7c4d8faa629d-667c3376-19b-1d50
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1719417680
+VaU7Y;b658OafAVb;1KhgC2
+04 18 4 work tb_STACK_BASED_ALU fast 0
+=1-7c4d8faa629d-667c3b50-109-28c0
+R1
+R2
+n@_opt2
+R3
+R0
+vALU
+Z4 !s110 1719420322
+!i10b 1
+!s100 OB>Q^`aNRPTe^HLdFS4Y`3
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IlmAi3hZCWK7gCbH=FOT<g2
+Z6 dC:/Users/metal/Desktop/AAAAAAAAAA
+w1719412527
+8C:\Users\metal\Desktop\AAAAAAAAAA\ALU.v
+FC:\Users\metal\Desktop\AAAAAAAAAA\ALU.v
+!i122 207
+L0 19 77
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1719420322.000000
+!s107 C:\Users\metal\Desktop\AAAAAAAAAA\ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\metal\Desktop\AAAAAAAAAA\ALU.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@a@l@u
+vCalculator
+R4
+!i10b 1
+!s100 W_bgHKUl9^QP@z;bL7SCS2
+R5
+I8n8UGFS>MT6CIbimiHC2M1
+R6
+w1719420291
+8C:\Users\metal\Desktop\AAAAAAAAAA\Calculator.v
+FC:\Users\metal\Desktop\AAAAAAAAAA\Calculator.v
+!i122 213
+L0 3 85
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:\Users\metal\Desktop\AAAAAAAAAA\Calculator.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\metal\Desktop\AAAAAAAAAA\Calculator.v|
+!i113 0
+R10
+R2
+n@calculator
+vSTACK_BASED_ALU
+R4
+!i10b 1
+!s100 @=kdHPf^ZS9kFg^k[I2WX2
+R5
+I2fSmU;ie:SlgQeUA]G<KT3
+R6
+w1719417642
+8C:\Users\metal\Desktop\AAAAAAAAAA\STACK_BASED_ALU.v
+FC:\Users\metal\Desktop\AAAAAAAAAA\STACK_BASED_ALU.v
+!i122 206
+L0 3 76
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:\Users\metal\Desktop\AAAAAAAAAA\STACK_BASED_ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\metal\Desktop\AAAAAAAAAA\STACK_BASED_ALU.v|
+!i113 0
+R10
+R2
+n@s@t@a@c@k_@b@a@s@e@d_@a@l@u
+vTB
+R4
+!i10b 1
+!s100 AfYAAo1JF>1RIhX^74Mzo2
+R5
+IeFK=CYX5CB9^`l1g_@5Ij2
+R6
+w1719412648
+8C:/Users/metal/Desktop/AAAAAAAAAA/TB.v
+FC:/Users/metal/Desktop/AAAAAAAAAA/TB.v
+!i122 208
+L0 1 80
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/metal/Desktop/AAAAAAAAAA/TB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/metal/Desktop/AAAAAAAAAA/TB.v|
+!i113 0
+R10
+R2
+n@t@b
+vtb_Calculator
+R4
+!i10b 1
+!s100 3l_@77mP?4:Y8<81;;I_h1
+R5
+Ib4mXRRVJ]^JL^NU0`<Y771
+R6
+w1719420313
+8C:\Users\metal\Desktop\AAAAAAAAAA\tb_Calculator.v
+FC:\Users\metal\Desktop\AAAAAAAAAA\tb_Calculator.v
+!i122 214
+L0 3 190
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:\Users\metal\Desktop\AAAAAAAAAA\tb_Calculator.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\metal\Desktop\AAAAAAAAAA\tb_Calculator.v|
+!i113 0
+R10
+R2
+ntb_@calculator
+vtb_STACK_BASED_ALU
+R4
+!i10b 1
+!s100 e5SgcJHGZG:C7Ph]YDgJ_3
+R5
+IW0LkgIO:K?RBD=ZUB^L6C3
+R6
+w1719417659
+8C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU.v
+FC:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU.v
+!i122 209
+L0 3 158
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU.v|
+!i113 0
+R10
+R2
+ntb_@s@t@a@c@k_@b@a@s@e@d_@a@l@u
+vtb_STACK_BASED_ALU_16
+R4
+!i10b 1
+!s100 3ihNVDQ4MCKWbPSaoZTM22
+R5
+IU`78<giC57[NB47VU`jP21
+R6
+w1719415627
+8C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_16.v
+FC:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_16.v
+!i122 211
+Z11 L0 3 61
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_16.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_16.v|
+!i113 0
+R10
+R2
+ntb_@s@t@a@c@k_@b@a@s@e@d_@a@l@u_16
+vtb_STACK_BASED_ALU_32
+R4
+!i10b 1
+!s100 Dbb8cD[h@ekYdW>>>:T>d1
+R5
+I`H?ECkD]a^>=<QKFlFH5B2
+R6
+w1719415642
+8C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_32.v
+FC:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_32.v
+!i122 212
+R11
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_32.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_32.v|
+!i113 0
+R10
+R2
+ntb_@s@t@a@c@k_@b@a@s@e@d_@a@l@u_32
+vtb_STACK_BASED_ALU_4
+R4
+!i10b 1
+!s100 aA4nP0ET_<cWaXbb=nV8l1
+R5
+Ii0Fh^7z=c@24oK2OHSN_j3
+R6
+w1719415608
+8C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_4.v
+FC:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_4.v
+!i122 210
+R11
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_4.v|
+!i113 0
+R10
+R2
+ntb_@s@t@a@c@k_@b@a@s@e@d_@a@l@u_4

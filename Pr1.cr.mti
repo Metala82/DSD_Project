@@ -1,0 +1,50 @@
+C:/Users/metal/Desktop/AAAAAAAAAA/tb_STACK_BASED_ALU_16.v {1 {vlog -work work -vopt -stats=none {C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_16.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_STACK_BASED_ALU_16
+
+Top level modules:
+	tb_STACK_BASED_ALU_16
+
+} {} {}} C:/Users/metal/Desktop/AAAAAAAAAA/STACK_BASED_ALU.v {1 {vlog -work work -vopt -stats=none {C:\Users\metal\Desktop\AAAAAAAAAA\STACK_BASED_ALU.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module STACK_BASED_ALU
+
+Top level modules:
+	STACK_BASED_ALU
+
+} {} {}} C:/Users/metal/Desktop/AAAAAAAAAA/tb_STACK_BASED_ALU_4.v {1 {vlog -work work -vopt -stats=none {C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_4.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_STACK_BASED_ALU_4
+
+Top level modules:
+	tb_STACK_BASED_ALU_4
+
+} {} {}} C:/Users/metal/Desktop/AAAAAAAAAA/tb_STACK_BASED_ALU.v {1 {vlog -work work -vopt -stats=none {C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_STACK_BASED_ALU
+
+Top level modules:
+	tb_STACK_BASED_ALU
+
+} {} {}} C:/Users/metal/Desktop/AAAAAAAAAA/tb_STACK_BASED_ALU_32.v {1 {vlog -work work -vopt -stats=none {C:\Users\metal\Desktop\AAAAAAAAAA\tb_STACK_BASED_ALU_32.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_STACK_BASED_ALU_32
+
+Top level modules:
+	tb_STACK_BASED_ALU_32
+
+} {} {}} C:/Users/metal/Desktop/AAAAAAAAAA/ALU.v {1 {vlog -work work -vopt -stats=none {C:\Users\metal\Desktop\AAAAAAAAAA\ALU.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/metal/Desktop/AAAAAAAAAA/TB.v {1 {vlog -work work -vopt -stats=none C:/Users/metal/Desktop/AAAAAAAAAA/TB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}}
