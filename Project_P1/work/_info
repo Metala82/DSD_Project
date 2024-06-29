@@ -1,0 +1,184 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/metal/Desktop/FinalHW4
+T_opt
+!s110 1719411343
+VD[E]VVb;1D<jM=UeU9a2h2
+Z1 04 18 4 work tb_STACK_BASED_ALU fast 0
+=1-7c4d8faa629d-667c228f-fd-2fec
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1719412010
+VV5=IT]C<7QekfH^^7KS<P1
+R1
+=1-7c4d8faa629d-667c252a-3d-41c8
+R2
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1719412302
+VnXGz?99_f32]GJNC^S5o32
+R1
+=1-7c4d8faa629d-667c264e-2fc-32f4
+R2
+R3
+n@_opt2
+R4
+vALU_Operations
+Z5 !s110 1719412284
+!i10b 1
+!s100 0fEc[>V_0LE3>K04^kc7A1
+Z6 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_Z>`z9LiU4c:U]jd<::JW3
+Z7 dC:/Users/metal/Desktop/Project_P1
+w1719405103
+8C:/Users/metal/Desktop/Project_P1/ALU_Operation.v
+FC:/Users/metal/Desktop/Project_P1/ALU_Operation.v
+!i122 226
+L0 1 22
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z10 !s108 1719412284.000000
+!s107 C:/Users/metal/Desktop/Project_P1/ALU_Operation.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/metal/Desktop/Project_P1/ALU_Operation.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+n@a@l@u_@operations
+vStack
+R5
+!i10b 1
+!s100 >=_NN8ZkoZ=Z9;C6`<2[z3
+R6
+IHJ[EdH[jbP=84]E4JCRXK2
+R7
+w1719406560
+8C:/Users/metal/Desktop/Project_P1/Stack.v
+FC:/Users/metal/Desktop/Project_P1/Stack.v
+!i122 227
+L0 1 53
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/metal/Desktop/Project_P1/Stack.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/metal/Desktop/Project_P1/Stack.v|
+!i113 0
+R11
+R3
+n@stack
+vSTACK_BASED_ALU
+R5
+!i10b 1
+!s100 n9_S8ZR=f5C=E>Nd:bQEa3
+R6
+IJBZBlUXFC[1[Qz^>X8a3J1
+R7
+w1719412184
+8C:/Users/metal/Desktop/Project_P1/STACK_BASED_ALU.v
+FC:/Users/metal/Desktop/Project_P1/STACK_BASED_ALU.v
+!i122 228
+L0 1 104
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/metal/Desktop/Project_P1/STACK_BASED_ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/metal/Desktop/Project_P1/STACK_BASED_ALU.v|
+!i113 0
+R11
+R3
+n@s@t@a@c@k_@b@a@s@e@d_@a@l@u
+vtb_ALU_Operations
+!s110 1719410456
+!i10b 1
+!s100 HIgB?mVB9A:FF6n@0=6b]3
+R6
+I8fl0_[J24K5z`VV]TGi]33
+R7
+w1719406919
+Z12 8C:/Users/metal/Desktop/Project_P1/tb_ALU_Operations.v
+Z13 FC:/Users/metal/Desktop/Project_P1/tb_ALU_Operations.v
+!i122 148
+L0 1 44
+R8
+R9
+r1
+!s85 0
+31
+!s108 1719410456.000000
+Z14 !s107 C:/Users/metal/Desktop/Project_P1/tb_ALU_Operations.v|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/metal/Desktop/Project_P1/tb_ALU_Operations.v|
+!i113 0
+R11
+R3
+ntb_@a@l@u_@operations
+vtb_Stack
+R5
+!i10b 1
+!s100 _CF2AidccE]M6]>`dINf[1
+R6
+I_SSo3DR_^aAT1go<PdJ?E3
+R7
+w1719407076
+8C:/Users/metal/Desktop/Project_P1/tb_Stack.v
+FC:/Users/metal/Desktop/Project_P1/tb_Stack.v
+!i122 231
+L0 1 75
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/metal/Desktop/Project_P1/tb_Stack.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/metal/Desktop/Project_P1/tb_Stack.v|
+!i113 0
+R11
+R3
+ntb_@stack
+vtb_STACK_BASED_ALU
+R5
+!i10b 1
+!s100 bMoQT@;8hh6G0RDYMmO[L2
+R6
+I@m>bCeYA>n]I6lfk^342h0
+R7
+w1719411414
+R12
+R13
+!i122 230
+L0 1 114
+R8
+R9
+r1
+!s85 0
+31
+R10
+R14
+R15
+!i113 0
+R11
+R3
+ntb_@s@t@a@c@k_@b@a@s@e@d_@a@l@u

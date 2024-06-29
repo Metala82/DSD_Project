@@ -1,0 +1,43 @@
+C:/Users/metal/Desktop/Project_P1/tb_STACK_BASED_ALU.v {1 {vlog -work work -vopt -stats=none C:/Users/metal/Desktop/Project_P1/tb_STACK_BASED_ALU.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_STACK_BASED_ALU
+
+Top level modules:
+	tb_STACK_BASED_ALU
+
+} {} {}} C:/Users/metal/Desktop/Project_P1/tb_ALU_Operations.v {1 {vlog -work work -vopt -stats=none C:/Users/metal/Desktop/Project_P1/tb_ALU_Operations.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_STACK_BASED_ALU
+
+Top level modules:
+	tb_STACK_BASED_ALU
+
+} {} {}} C:/Users/metal/Desktop/Project_P1/ALU_Operation.v {1 {vlog -work work -vopt -stats=none C:/Users/metal/Desktop/Project_P1/ALU_Operation.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU_Operations
+
+Top level modules:
+	ALU_Operations
+
+} {} {}} C:/Users/metal/Desktop/Project_P1/Stack.v {1 {vlog -work work -vopt -stats=none C:/Users/metal/Desktop/Project_P1/Stack.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Stack
+
+Top level modules:
+	Stack
+
+} {} {}} C:/Users/metal/Desktop/Project_P1/tb_Stack.v {1 {vlog -work work -vopt -stats=none C:/Users/metal/Desktop/Project_P1/tb_Stack.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_Stack
+
+Top level modules:
+	tb_Stack
+
+} {} {}} C:/Users/metal/Desktop/Project_P1/STACK_BASED_ALU.v {1 {vlog -work work -vopt -stats=none C:/Users/metal/Desktop/Project_P1/STACK_BASED_ALU.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module STACK_BASED_ALU
+
+Top level modules:
+	STACK_BASED_ALU
+
+} {} {}}

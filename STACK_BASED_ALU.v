@@ -30,7 +30,7 @@ always @(posedge clk) begin
             end else begin
                 overflow <= 1;
             end
-            output_data <= {DATA_WIDTH{1'bz}};
+            output_data <= debug_value;
         end
 
         3'b101: // multiplication
@@ -43,7 +43,7 @@ always @(posedge clk) begin
             end else begin
                 overflow <= 1;
             end
-            output_data <= {DATA_WIDTH{1'bz}};
+            output_data <= debug_value;
         end
 
         3'b110: // pushing
@@ -60,8 +60,8 @@ always @(posedge clk) begin
         3'b111: // popping
         begin
             if (stack_pointer > 0) begin
+                output_data <= stack[stack_pointer-1];
                 stack_pointer <= stack_pointer - 1;
-                output_data <= stack[stack_pointer];
             end else begin
                 overflow <= 1;
                 output_data <= {DATA_WIDTH{1'bz}};
